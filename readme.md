@@ -20,11 +20,7 @@ npm install
 ```
 
 ### Set up environment variables
-Create a `.env` file in the project root with:
-```
-PORT=3000
-API_KEY=test-api-key
-```
+Create a `.env` file in the project root as .env.example
 
 ### Run the server
 ```sh
