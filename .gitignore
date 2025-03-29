@@ -18,7 +18,6 @@ error.log
 Thumbs.db
 
 # Deployment
-dist/
 build/
 .cache/
 .vscode/
